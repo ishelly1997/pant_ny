@@ -11,7 +11,7 @@ function About() {
           <h4>bio</h4>
           <p>
           </p>
-          <p>Pant is a New York based rock band made up by members Lucien Shelly, Morgan Davis, Frank Bubbico, and Maddy Edwards.</p>
+          <p>Pant is a New York based rock band made up by members Lucien Shelly, Morgan Davis, and Maddy Edwards.</p>
           <p>Pant's mission is take the great leap forward in rock and roll, creating a familiar, but unique, modern sound.</p>
           <p>More to pantics to come</p>
           <p>Peace, Love, and Pant </p>
